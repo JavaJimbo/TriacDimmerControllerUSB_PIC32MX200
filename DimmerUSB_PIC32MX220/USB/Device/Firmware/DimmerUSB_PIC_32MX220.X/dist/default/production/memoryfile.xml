@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/DimmerUSB_PIC_32MX220.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>33936</length>                 
+      <used>24932</used>                     
+      <free>9004</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>1012</used>                     
+      <free>7180</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
